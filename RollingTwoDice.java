@@ -13,7 +13,7 @@ public class RollingTwoDice {
 		Random random = new Random();    // Creating random object from Random class
 		
 		int dice1 = random.nextInt(6) + 1;	// Rolling first dice
-		int dice2 = random.nextInt(6) + 1;  // Rolling second dice
+		int dice2 = random.nextInt(6) + 1;      // Rolling second dice
 		
 		System.out.println("Dices: \n"+ dice1 + "  " + dice2);  // dices oto-casting to string
 	}
