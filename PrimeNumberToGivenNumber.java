@@ -24,12 +24,12 @@ public class PrimeNumberToGivenNumber {
 		for (int i = 2;i<num+1;i++)		// Increasing number
 		{
 			int count = 0;				// Counting if there is a dividing number
-			for (int j = 1;j<i;j++)		// Increasing dividing numbers
+			for (int j = 2;j<i;j++)		// Increasing dividing numbers
 			{
 				if (i%j == 0) count++;
 					
 			}
-			if (count == 1)			// dividing starts 1 because given number could be 1 so, if there is no more, then it is prime number
+			if (count == 0)			// dividing starts 1 because given number could be 1 so, if there is no more, then it is prime number
 			{
 				System.out.println(i);
 			}
