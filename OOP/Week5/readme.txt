@@ -24,4 +24,4 @@ toUpper method.
 
 Name               Surname        Student ID
 Barış                Dinç         19500403001
-Faruk		Mert       12345678900
+Faruk		             Mert       12345678900
