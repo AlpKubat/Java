@@ -5,7 +5,7 @@ Programınızda Oyuncu ve Tahta adında iki adet sınıf bulunmalıdır. Bu sın
 diyagramları aşağıda verilmiştir. Bazı metotların ne yapması gerektiği ise diyagramların altında 
 belirtilmiştir.
 
-https://github.com/AlpKubat/Java/issues/1#issue-1288343754
+[https://github.com/AlpKubat/Java/issues/1#issue-1288343754](https://user-images.githubusercontent.com/95579755/176387470-5027a58d-ed89-4086-9fb9-cec9a04ceae0.jpg)
 
 
 Oyuncu.puanEkle(int) : Dışarıdan aldığı parametre değerini toplamPuan değerine ekler. 
